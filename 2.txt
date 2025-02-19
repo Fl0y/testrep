@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 fdsgdsgdfhd
+=======
+>>>>>>> c7df26e02a0fcba964f1af44ed13f6ffea2905c6
 fgcfgggtccf
